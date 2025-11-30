@@ -1,0 +1,121 @@
+welcome to my tech diary.
+
+May 27  [04:22]
+and here is my first script to store my notes in txt file with data and time. my first script was cal.sh that runs ncal with my custom needs. also i made couple scripts to move files from and to my server laptop. lastlly the login one to make process faster
+
+May 27  [05:02]
+i'll try to continue this diary only in english to have some more practice and its just looks awesome by the way, so yeah
+
+May 27  [05:05]
+somehow i've started my server on the old laptop, just because of google, but its ok i'm sure. i will learn deeply everything about it. and also python, start soon
+
+May 27  [16:43]
+so.. i've deleted previous note by updating my folder on server via rsync, because on pc was old version and i addet new by ios client on server. yeah, i mannaged how to sync my laptop folder with server by rsync. thats about what was those deleted note
+
+May 27  [17:31]
+oh, i forgot about my main script.. mintwelcome that is loading my settings from dconf dump and changing boot logo with rm mv comands
+
+May 27  [20:17]
+finally i found how to ls by type and show all in one column and whithout color hiloghtin loss. it's ls -1X
+
+May 27  [23:31]
+finished basics of linux cli comands and already had some practice with them while was setting up server and rsync. next step is bash scripting
+
+May 28  [22:01]
+made cool status script from many other quest-scripts. now it shows me continiously calendar, time, statuses that i've added. and the cool part that they are progressive, numbers are growing
+
+May 28  [23:50]
+wow, it was huge amount of new info for just evening, now i'm familiar with grep sed commands, also wc -l espessaly for my needs. and now i have nice a.k.a. minimalist's rpg to play with. recode cal inside of status.sh and now it is just date with my formatting. looks pretty nice, but when i'm looking at the code.. damn, ami a real programmer now? at least its feels like this
+
+May 29  [03:35]
+wow, what was that, whole mini project on almost 100 lines of code. tips.sh counts my tips in month, dumping final number every last day of month to separate file and don't do that whyle i'm resetting to not reset the dump too. also second tries if i type not numbers to add field
+
+May 31  [14:08]
+took a little pause due to waiting for the mic and other staff delivering to me. it's about a week to wait. also i need a camera to stream on yt, can i connect my canon sx210?
+
+May 31  [14:29]
+oh, so many ideas in my head. and all of them so cool, what's happening
+
+May 31  [15:20]
+canceled my orders, because i'm already have everything built in in my laptop. so, i'm gonna start as soon as i finish my shift at work. starting with obs and so on
+
+June 03  [01:21]
+bought a keyboard to stream comfortably, finnaly i can start. i'm so done with this work as waiter, i have to study hard to apply to my new life chapter
+
+June 06  [23:54]
+before stream on yt, working on my hp, while thinkpad is capturing. sound wtaked lots of time to config. it's time to start my first stream online
+
+June 07  [04:17]
+i've started my whole app ib bash shell or whatever it is, i love it, it's so cool
+
+June 18  [23:14]
+finally started my stream, moved all files from my phone and server laptop
+
+June 19  [04:06]
+made one script which containing all of my previous scriptf from last weeks. money reports and combined workout script
+
+June 19  [05:29]
+it was my longest session of learning something
+
+June 20  [22:25]
+done that i was afraid of, made changes on laptop and phone in a same time. because of this tried option --rebase of git. succeseful
+
+June 22  [13:27]
+i should learn another stuff, not only bash scripting
+
+June 23  [03:51]
+now whole app is sliced to many scripts, lastly i want to add transfers to finance and made a toto app finally to move forward
+
+June 23  [03:59]
+working with git is so cool, it's more easyer to sync changes between my machines in a seconds
+
+June 25  [18:01]
+almost dode with my app. today i want to finish it and go to the next point of learning
+
+June 25  [18:33]
+removed all sl to increase speed of loading pages
+
+June 26  [02:49]
+at least to days left to finish everytng at this project. just starded tasks manager without any ideas how to transfer the exact lines between categories
+
+June 26  [16:24]
+continued tasks script at the morning shift, hope today i'll finish it
+
+June 26  [16:27]
+found useful to add blank space before each page of app to prevent layering with old text
+
+June 27  [21:22]
+finally added allias to run app with one command without bash or ./ before
+
+June 27  [22:38]
+made boot logo like for real app
+
+June 28  [03:53]
+ugh, updated boot logo, main screen, feels solid
+
+July 01  [04:38]
+started changelog file, so diary will be more about experience of coding
+
+August 07  [17:57]
+finally after a month i'm here again with many ideas
+
+August 17  [12:17]
+pushed final app to github, started learning devops way in dev
+
+August 21  [17:47]
+only two days of activity and plato agaig, too much work and no energy
+
+November 22  [03:08]
+downloaded docker, tryed first container, reinstalled ish on the iphone, now i'm faster with cli flow, can see directories in my imagine before i type where inwant
+
+[ 24.11.25 - 22:42 ]
+and so, here the note from python version of diary app
+
+[ 24.11.25 - 01:05 ]
+just two ours and i have fully wotking python mini app for my diary, works perfectly
+
+[ 26.11.25 - 00:13 ]
+damn, coding from pc ten times comfortable, but i am curious about my body, to much time of sitting on my butt
+
+[ 26.11.25 - 04:19 ]
+finance mini app left and the whole app will be raedy to upgrade
